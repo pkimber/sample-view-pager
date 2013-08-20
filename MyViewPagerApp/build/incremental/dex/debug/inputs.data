@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377014625000 813 c94cd00e230d1b4f95d960f2e17d6221522c100e /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/MainActivity.class
+1377014625000 334 1b64f5a75bb797b5528f47eac01c9b5e3a6a943d /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$attr.class
+1377014625000 387 179274bba1cfe4d84886a6bfe5cce8e1237d5280 /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$id.class
+1377014625000 397 5b52f4a897044f23f6f6e5f8b3b05c4066ca6eee /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$layout.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/patrick/bin/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1377014625000 425 39f7bce526671bf671e392c7fcdb3951275b023a /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$style.class
+1377014625000 466 cd229c46f0d3716ef05d5d0a1d3c5e4b21da1ee8 /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$string.class
+1377014625000 341 9b29f783ee6433d8f5fe8a1bb1d5f4dfa8f59809 /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/BuildConfig.class
+1377014625000 455 b9306322f6bb185324ea1ce724a3c74f159a8cc5 /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$dimen.class
+1377014625000 382 ff9f76a948be6df455202657d0e81d130e9a14da /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$menu.class
+1377014625000 401 0ab51ed6b03f99564c2cf4300a934fd38a22b7bf /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R$drawable.class
+1377014625000 657 c2e6aa274477ee8549384eb183cc7dc7f1e0b9da /home/patrick/repo/learn/android/my_view_pager/MyViewPagerApp/build/classes/debug/my/example/myapp/R.class
